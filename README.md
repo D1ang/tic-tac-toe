@@ -1,4 +1,4 @@
-# React Tic-Tac-Toe Tutorial
+# React Tic-Tac-Toe
 
 This project is a simple implementation of the classic Tic-Tac-Toe game built with React.
 It follows the official React tutorial, demonstrating key React concepts such as:
@@ -16,8 +16,8 @@ These instructions will help you set up and run the project locally.
 
 ### Prerequisites
 
-Node.js (v18 or higher recommended)
-npm or yarn
+Node.js (v18 or higher recommended) with npm
+ > Install Node.js on [Windows with WSL](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl#install-nvm-nodejs-and-npm)
 
 ### Installation
 
@@ -30,7 +30,7 @@ git clone https://github.com/D1ang/tic-tac-toe.git
 Navigate to the project directory and install dependencies:
 
 ```bash
-npm install [or] yarn install
+npm install
 ```
 
 ## Running the App
@@ -38,7 +38,7 @@ npm install [or] yarn install
 Start the development server:
 
 ```bash
-npm start [or] yarn start
+npm start
 ```
 
 The app should now be running at `http://localhost:3000`
