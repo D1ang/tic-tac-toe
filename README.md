@@ -46,3 +46,9 @@ The app should now be running at `http://localhost:3000`
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Todo
+
+- Add a toggle button that lets you sort the moves in either ascending or descending order.
+- When no one wins, display a message about the result being a draw.
+- Display the location for each move in the format (row, col) in the move history list.
